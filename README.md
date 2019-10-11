@@ -1,7 +1,10 @@
 ## psaudit
 
+
 通过Linux netlink *NETLINK_CONNECTOR* 协议实时进行监控本机进程情况。
 
+当前维度： Linux NETLINK_CONNECTOR ->  execve -> pid -> pid info
+之前研究测试用的，方便输出安全规则。
 
 获取的信息
 
